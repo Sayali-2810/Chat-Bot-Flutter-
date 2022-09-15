@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-odpr",
+  "private_key_id": "bab607f2973190571ff95e6d27da51ad8645e269",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCdOiJDrDC3q1UR\nBDKevYrQArqoN351XeMUpvqjiTIpcdFPKmBrvt7BdqbkoKS7pBrhMqJMS+g1jE2G\n2QHHnkNlxyRsJjQXjfRaq/zTpVqQd0aQhLHUhlHiHJ2D4BM2k2itmHjFEX/v+MgI\nME8UwSRIq4KDImQTOGWsIpd5lePdMIaUQO6YB5wQiVq7BMufHGlzA4oGz9BLqCUI\nlgBdBYM1OLe+moBeSkDRTgRv8QDdJcyYTecjdZkAjCAUvIdDDV8qrvJhc1Jqy75s\nN2eaVtAjlGCYpP3RiJ93vzC6Gu90TLUCL+DllybCkqvHfFydYIlslrPHcfeBxH10\nxPC1vFrPAgMBAAECggEAEhZzhayECEU+KpB8kFWG6CpANgT4V+E+tAwHrpOkgS8W\nYNCjuhGBx+jyB0BR40JcU0cDc9qRssNa0eYaNdBHuahA0O5ONN2AXIQHuIN/2TnX\nlN2nJad0ORqIpni7TR6FPt9ZGXbLbJyGyqZgGqejmHaes55bu/hTfguWuIadab8y\nk1C8TxNmzP1HKV3Q10UEampGBGDnzjQOmlba1uIytcPW5tWqA10n4wHGpNK31XBZ\n0kspNrzFvzktgBKwkUdgjvk++Ea/rv6+t2zyxxlZ50eykD+Z6L/v2xRtrQjze+Qf\noGFH3hevtRnyjoNodtczdghOkrj2QMzkQ0kblAzngQKBgQDZxP9gU1WyFPo3Tg4s\n6Mh/KHseWTXvDR3JhQAMyaB46qhxRUkFc6BYw40bWgB1Bv1cdPiQyCSEhwaFFK5S\nfIvoD07QtFHCTjltTumDSnomFFdDkoxT269i5pIwXAAk04j+pX6kQsmtb82M41WP\nxiBIaSUuuX0FNZn8jPTV8f3/gQKBgQC41DygzAN1vjwQRThqsOZfJdsIw3QVDiBB\nl+AAC8MbpK1aBpnKm1/K0Djzl1ym7UqsHR7KBrPaqtOOsz5zY3qyZYWV1XqGbSGL\n+ARBLQmI+77TLLJwQn03Xxmn2XUCDA6dio0RIKc2x5opsKkm+0nAQAJZXvzxjwAk\npSXLGhuCTwKBgQCqMxp5GYivn0+Ua/AOT31sTKI1LPpHNJQkTUulsuw1tQkjRkh0\n91LKLUQarXQQAv+ABHfFCHfqEHIbDvfTxj2+iEBMQ7Jmz6Z4dSVylIH1Qw6U5HPC\nkr9358c3/p+qKJ44j/XzwbNIV0pqo77amLngfjUuWJCKwsLwLOaqU/D1gQKBgQCu\n6+4VH/+GR2wA2gHyt0jPc7xAJvqNkrjkWyAb6wXT+540PVr/bNzTzQyZPP7q3Fh3\nW3fwKze8Ez/1JZ5NBjDw9TPgAhHbdxzwouEj7cPAaMDIity1cbef19koCZ27Oj36\ny02GkCiwp2c3XYI46kl6MRoICuXIl1XDWKjT9vlh8QKBgQCpopEMt5hUVP6UdJYG\nVPMn9IsdpTRD3HN3tivGwO0tAB+wg3EFLMkcUdwOaarDfknqhZDwWvr8YzV5EP5s\nMDWcqwygmtDSEyCeBzanaEu+7mf2Aemb4UgTmO0YfCQ25hakIRmjmSJFNldcr6g3\nFfv+4fUCzepmLCzRhzor35ijBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bakerybot@chatbot-odpr.iam.gserviceaccount.com",
+  "client_id": "106089449426864092278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bakerybot%40chatbot-odpr.iam.gserviceaccount.com"
+}
