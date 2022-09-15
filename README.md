@@ -1,16 +1,13 @@
 # chat_bot
 
 A new Flutter project.
+This is a chatbot project which can help in getting bakery orders.
+It is build in flutter using dialogflow.
 
-## Getting Started
+# output
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2022-09-15 at 10 31 50 PM](https://user-images.githubusercontent.com/85054204/190467971-91319d5a-1cc9-47cb-b46a-5027cebb88d3.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2022-09-15 at 10 31 49 PM](https://user-images.githubusercontent.com/85054204/190467730-47bd9a3e-8fde-44a3-a7aa-8158d8ea7da5.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
